@@ -1,7 +1,9 @@
 ---
-layout: post
-title:  Vegane Rezepte
-date:   2021-08-09 11:00:00 +0200
+layout: page
+title: Vegane Rezepte
+permalink: /vegane-rezepte/
+toc: true
+exclude: true
 ---
 
 * <https://www.smarticular.net/vegane-wurst-seitan-wuerstchen-selber-machen/>

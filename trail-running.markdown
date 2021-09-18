@@ -1,7 +1,9 @@
 ---
-layout: post
-title:  (Trail) Running
-date:   2021-08-09 11:00:00 +0200
+layout: page
+title: Trail Running
+permalink: /trail-running/
+toc: true
+exclude: true
 ---
 ## Touren
 

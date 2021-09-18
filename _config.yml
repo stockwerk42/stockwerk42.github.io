@@ -38,9 +38,7 @@ plugins:
   - jekyll-minifier
   - jekyll-sitemap
   - jekyll-toc
-header_pages:
-  - bookshelf.markdown
-  - about.markdown
+header_pages: []
 show_excerpts: true
 
 

@@ -3,6 +3,7 @@ layout: page
 title: Bücherregal
 permalink: /bookshelf/
 toc: true
+exclude: true
 ---
 
 > Das musst du gelesen haben (Nein, muss ich nicht!) [Grossstadtgeflüster]

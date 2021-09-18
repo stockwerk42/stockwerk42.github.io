@@ -1,7 +1,9 @@
 ---
-layout: post
-title:  Garmin
-date:   2021-08-07 11:00:00 +0200
+layout: page
+title: Garmin
+permalink: /garmin/
+toc: true
+exclude: true
 ---
 
 Nach diversen Ausflügen zu Polar und Suunto nutze ich seit einiger Zeit wieder Modelle von Garmin (aktuell die fēnix 6 Pro).
