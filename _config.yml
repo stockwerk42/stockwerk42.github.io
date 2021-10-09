@@ -21,9 +21,7 @@
 title: stockwerk42
 email: stockwerk42@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Privater Spielplatz. Meinungen und Inhalte sind meine eigenen.
-  Keine finanzielle Beratung. Keine finanzielle Empfehlung. Alle
-  Inhalte stehen unter der CC BY-NC-ND 4.0 zur Verfügung.
+  Professioneller 3D Druckservice für hochwertige Prototypen und Kleinserien aus Kunststoff
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://stockwerk42.com" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: stockwerk42
