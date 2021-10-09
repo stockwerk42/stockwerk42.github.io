@@ -3,7 +3,10 @@ layout: home
 toc: false
 ---
 
-<b style="font-size: 16px">Professioneller 3D Druckservice für hochwertige Prototypen und Kleinserien aus Kunststoff</b>
+<p><b style="font-size: 16px">Professioneller 3D Druckservice für hochwertige Prototypen und Kleinserien aus Kunststoff</b></p>
+
+Bitte kontaktieren Sie uns unverbindlich über <a href="mailto:stockwerk42@gmail.com">stockwerk42@gmail.com</a>
+für weitere Details zu unseren Preisen, Dienstleistungen und Produkten.
 
 ## Ständer für SecurID Token als Give-Away
 
