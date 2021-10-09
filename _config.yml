@@ -35,7 +35,6 @@ plugins:
   - jekyll-feed
   - jekyll-minifier
   - jekyll-sitemap
-  - jekyll-toc
 header_pages: []
 show_excerpts: true
 

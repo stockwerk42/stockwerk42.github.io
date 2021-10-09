@@ -1,11 +1,17 @@
-# stockwerk42.github.io
+# stockwerk42.com
 
 ## Installation
 
 ```
 brew install ruby
-gem install --user-install bundler
-export PATH="$HOME/.gem/ruby/2.6.0/bin:$PATH"
+bundle config set --local path 'vendor/bundle'
+bundle install
+```
+
+## Usage
+
+```
+bundle exec jekyll serve
 ```
 
 ## License
