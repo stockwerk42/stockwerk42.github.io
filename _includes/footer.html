@@ -1,0 +1,40 @@
+<footer class="site-footer h-card">
+  <data class="u-url" href="{{ "/" | relative_url }}"></data>
+
+  <div class="wrapper">
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+          <li class="p-name">
+            {%- if site.author -%}
+              {{ site.author | escape }}
+            {%- else -%}
+              {{ site.title | escape }}
+            {%- endif -%}
+            </li>
+            {%- if site.email -%}
+            <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+            {%- endif -%}
+        </ul>
+      </div>
+
+      <div class="footer-col footer-col-2">
+        {%- include social.html -%}
+      </div>
+
+      <div class="footer-col footer-col-3">
+        <p>{{- site.description | escape -}}</p>
+      </div>
+    </div>
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col">
+        <p><small>Kein Mehrwertsteuerausweis, da Kleinunternehmer nach §19 (1) UStG. zzgl. Versandkostenpauschale in Höhe von 5,90 &euro;</small></p>
+        <p style="margin-top: -18px"><small>Stockwerk42 - Christian Berendt (auch Verantwortlicher i.S.d. § 55 Abs. 2 RStV) - Hermannsta&szlig;e 7 - 75428 Illingen</small></p>
+      </div>
+    </div>
+
+  </div>
+
+</footer>
