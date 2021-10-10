@@ -24,9 +24,10 @@ abbaubarem PLA als Give-Away für Messen hergestellt.
 
 <img src="/assets/samples/skadis-1.jpg" alt="SKÅDIS Board mit Nähzubehör" style="width:200px;"/>
 
-Für den besseren Überblick und mehr Ordnung am Nähtisch stellen wir für die
+Für den besseren Überblick und mehr Ordnung in der Werkstatt, am Schreibtisch und am Nähtisch stellen wir für die
 <a href="https://www.ikea.com/de/de/p/skadis-lochplatte-weiss-00320803/">SKÅDIS Lochplatte </a>
-von IKEA praktisches Zubehör wie etwa Spulenhalter, Garnrollenhalter oder Unterfadenhalter her.
+von IKEA praktisches Zubehör her. Wie etwa Spulenhalter, Garnrollenhalter oder Unterfadenhalter für den Nähtisch oder
+Halterungen für Headphones für den Schreibtisch.
 
 <small>Es handelt sich dabei um kein Original Zubehör. Der Produktname <i>SKÅDIS</i> wird lediglich zur besseren Identifizierung
 des Produkts verwendet.</small>
