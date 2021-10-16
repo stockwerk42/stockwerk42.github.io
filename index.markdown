@@ -8,6 +8,8 @@ toc: false
 Bitte kontaktieren Sie uns unverbindlich über <a href="mailto:stockwerk42@gmail.com">stockwerk42@gmail.com</a>
 für weitere Details zu unseren Preisen, Dienstleistungen und Produkten.
 
+Unser Shop ist unter <a href="https://www.etsy.com/de/shop/stockwerk42">https://www.etsy.com/de/shop/stockwerk42</a> zu finden.
+
 ## Ständer für SecurID Token als Give-Away
 
 <img src="/assets/samples/osism-rsa-stand-2.png" alt="RSA Stand" style="width:200px;"/>
