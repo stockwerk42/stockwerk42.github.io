@@ -5,10 +5,39 @@ toc: false
 
 <p><b style="font-size: 16px">Professioneller 3D Druckservice für hochwertige Prototypen und Kleinserien aus Kunststoff</b></p>
 
-Bitte kontaktieren Sie uns unverbindlich über <a href="mailto:stockwerk42@gmail.com">stockwerk42@gmail.com</a>
-für weitere Details zu unseren Preisen, Dienstleistungen und Produkten.
+Bitte kontaktieren Sie mich unverbindlich über <a href="mailto:stockwerk42@gmail.com">stockwerk42@gmail.com</a>
+für weitere Details zu Preisen, Dienstleistungen und Produkten.
 
 Unser Shop ist unter <a href="https://www.etsy.com/de/shop/stockwerk42">https://www.etsy.com/de/shop/stockwerk42</a> zu finden.
+
+## Aufhängung für Amazon Blink Mini
+
+Für die Amazon Blink Mini habe ich eine einfache Aufhängung benötigt mir der ich die Kamera unterhalb eine Regalbretts montieren kann.
+
+### Entwurf mit Shapr3D
+
+Für die Erstellung von Prototypen arbeite ich mit Shapr3D. Eine Software für den Entwurf von 3D Modellen.
+
+<img src="/assets/workflow/IMG_0051.PNG" alt="Entwurf mit Shapr3D" style="width:200px;"/>
+<img src="/assets/workflow/IMG_0053.PNG" alt="Entwurf mit Shapr3D" style="width:200px;"/>
+
+### Slicing mit Simplify3D
+
+Für die Vorbereitung der Prototypen für den Ausdruck setze ich auf Simplify3D.
+
+<img src="/assets/workflow/simplify3d.png" alt="Slicing mit Simplify3D" style="width:200px;"/>
+
+### Ausdruck mit dem QIDI X-Plus
+
+Als Drucker setze ich momentan den X-Plus von QIDI Technology ein.
+
+<img src="/assets/workflow/IMG_1162.JPG" alt="Ausdruck mit dem QIDI X-Plus" style="width:200px;"/>
+<img src="/assets/workflow/IMG_1163.JPG" alt="Ausdruck mit dem QIDI X-Plus" style="width:200px;"/>
+
+### Verwendung
+
+<img src="/assets/workflow/IMG_1164.JPG" alt="Ausdruck mit dem QIDI X-Plus" style="width:200px;"/>
+<img src="/assets/workflow/IMG_1165.JPG" alt="Ausdruck mit dem QIDI X-Plus" style="width:200px;"/>
 
 ## Ständer für SecurID Token als Give-Away
 
